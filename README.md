@@ -5,14 +5,14 @@
 
 3. Tools Used 
 
-   o Pandas – Data cleaning and manipulation. 
-   o Matplotlib – Basic data visualization. 
-   o Seaborn – Advanced and statistical visualizations.
+   1. Pandas – Data cleaning and manipulation. 
+   2. Matplotlib – Basic data visualization. 
+   3. Seaborn – Advanced and statistical visualizations.
 
 5. Dataset
 
-   o Source: (https://deepdatalake.com/datasets.php.).
-   o Description: This dataset contains 24 columns and 3000 rows with the following key columns: 
+   1. Source: (https://deepdatalake.com/datasets.php.).
+   2. Description: This dataset contains 24 columns and 3000 rows with the following key columns: 
      
            Date: Date on which the data was recorded
            Stock Index: Name of the stock market index (Dow Jones, S&P 500, NASDAQ)
