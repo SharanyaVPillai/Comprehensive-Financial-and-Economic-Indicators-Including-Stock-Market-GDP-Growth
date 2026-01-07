@@ -43,17 +43,17 @@
      
       1. Imported the dataset using Pandas. 
       2. Cleaned the data by: 
-         o Removing missing and duplicate values. 
-         o Converting date and numeric columns to proper formats.
+         1. Removing missing and duplicate values. 
+         2. Converting date and numeric columns to proper formats.
       3. Performed exploratory data analysis (EDA) using Pandas. 
       4. Created visualizations using Matplotlib and Seaborn, such as: 
-         o Line charts for Stock Close Price Over Time.
-         o Bar plot for Average GDP Growth by Stock Index.
-         o Heatmaps for pattern analysis.
-         o Histogram – Distribution of Daily Stock Returns.
-         o Box Plot – Effect of Stock Index on Returns.
-         o Scatter Plot – GDP Growth vs Stock Returns.
-         o Subplots – Multiple Economic Indicators.
+         1. Line charts for Stock Close Price Over Time.
+         2. Bar plot for Average GDP Growth by Stock Index.
+         3. Heatmaps for pattern analysis.
+         4. Histogram – Distribution of Daily Stock Returns.
+         5. Box Plot – Effect of Stock Index on Returns.
+         6. Scatter Plot – GDP Growth vs Stock Returns.
+         7. Subplots – Multiple Economic Indicators.
       6. Interpreted the results to extract meaningful insights.
 
 8. Key Insights
