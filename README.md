@@ -5,16 +5,15 @@
 
 3. Tools Used 
 
-   o Pandas – Data cleaning and manipulation 
-   o Matplotlib – Basic data visualization 
-   o Seaborn – Advanced and statistical visualizations
+   o Pandas – Data cleaning and manipulation. 
+   o Matplotlib – Basic data visualization. 
+   o Seaborn – Advanced and statistical visualizations.
 
 5. Dataset
 
-   o Source: (https://deepdatalake.com/datasets.php.)
-   o Description: The dataset contains structured sales information with the following key columns: 
-      -This dataset contains 24 columns and 3000 rows.
-
+   o Source: (https://deepdatalake.com/datasets.php.).
+   o Description: This dataset contains 24 columns and 3000 rows with the following key columns: 
+     
            Date: Date on which the data was recorded
            Stock Index: Name of the stock market index (Dow Jones, S&P 500, NASDAQ)
            Open Price: Opening price of the stock index
@@ -44,17 +43,17 @@
      
       1. Imported the dataset using Pandas. 
       2. Cleaned the data by: 
-         o Removing missing and duplicate values 
-         o Converting date and numeric columns to proper formats 
+         o Removing missing and duplicate values. 
+         o Converting date and numeric columns to proper formats.
       3. Performed exploratory data analysis (EDA) using Pandas. 
       4. Created visualizations using Matplotlib and Seaborn, such as: 
-         o Line charts for Stock Close Price Over Time
-         o Bar plot for Average GDP Growth by Stock Index 
-         o Heatmaps for pattern analysis
-         o Histogram – Distribution of Daily Stock Returns
-         o Box Plot – Effect of Stock Index on Returns
-         o Scatter Plot – GDP Growth vs Stock Returns
-         o Subplots – Multiple Economic Indicators
+         o Line charts for Stock Close Price Over Time.
+         o Bar plot for Average GDP Growth by Stock Index.
+         o Heatmaps for pattern analysis.
+         o Histogram – Distribution of Daily Stock Returns.
+         o Box Plot – Effect of Stock Index on Returns.
+         o Scatter Plot – GDP Growth vs Stock Returns.
+         o Subplots – Multiple Economic Indicators.
       6. Interpreted the results to extract meaningful insights.
 
 8. Key Insights
@@ -67,13 +66,13 @@
 
 10. Visualizations
 
-         o Line charts for Stock Close Price Over Time
-         o Bar plot for Average GDP Growth by Stock Index 
-         o Heatmaps for pattern analysis
-         o Histogram – Distribution of Daily Stock Returns
-         o Box Plot – Effect of Stock Index on Returns
-         o Scatter Plot – GDP Growth vs Stock Returns
-         o Subplots – Multiple Economic Indicators
+         o Line charts for Stock Close Price Over Time.
+         o Bar plot for Average GDP Growth by Stock Index.
+         o Heatmaps for pattern analysis.
+         o Histogram – Distribution of Daily Stock Returns.
+         o Box Plot – Effect of Stock Index on Returns.
+         o Scatter Plot – GDP Growth vs Stock Returns.
+         o Subplots – Multiple Economic Indicators.
    <img width="1481" height="745" alt="Screenshot 2026-01-07 112418" src="https://github.com/user-attachments/assets/b9f9853e-24bc-4c2a-8c6b-768616608fa1" />
    <img width="964" height="553" alt="Screenshot 2026-01-07 110111" src="https://github.com/user-attachments/assets/e9d554c6-97b4-42a8-89cd-a8f7529f877e" />
    <img width="1236" height="731" alt="Screenshot 2026-01-07 110454" src="https://github.com/user-attachments/assets/4d420ff2-59c8-4a7b-8c4a-5e6459dc9d5f" />
@@ -86,9 +85,9 @@
 
 12. Files Included
 
-       o Comprehensive Financial and Economic Indicators Including Stock Market & GDP Grow.csv - Raw dataset
-       o Main Project Final.ipynb - Pandas analysis and visualizations
-       o README.md – Project description and usage instructions
+       o Comprehensive Financial and Economic Indicators Including Stock Market & GDP Grow.csv - Raw dataset.
+       o Main Project Final.ipynb - Pandas analysis and visualizations.
+       o README.md – Project description and usage instructions.
 
 14. How to Use 
        
