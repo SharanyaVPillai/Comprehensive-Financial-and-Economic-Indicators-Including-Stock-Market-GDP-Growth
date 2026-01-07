@@ -5,15 +5,15 @@
 
 3. Tools Used 
 
-   • Pandas – Data cleaning and manipulation 
-   • Matplotlib – Basic data visualization 
-   • Seaborn – Advanced and statistical visualizations
+   o Pandas – Data cleaning and manipulation 
+   o Matplotlib – Basic data visualization 
+   o Seaborn – Advanced and statistical visualizations
 
 5. Dataset
 
-   Source: (https://deepdatalake.com/datasets.php.)
-   Description: The dataset contains structured sales information with the following key columns: 
-      This dataset contains 24 columns and 3000 rows.
+   o Source: (https://deepdatalake.com/datasets.php.)
+   o Description: The dataset contains structured sales information with the following key columns: 
+      -This dataset contains 24 columns and 3000 rows.
 
            Date: Date on which the data was recorded
            Stock Index: Name of the stock market index (Dow Jones, S&P 500, NASDAQ)
@@ -86,9 +86,9 @@
 
 12. Files Included
 
-       Comprehensive Financial and Economic Indicators Including Stock Market & GDP Grow.csv - Raw dataset
-       Main Project Final.ipynb - Pandas analysis and visualizations
-       README.md – Project description and usage instructions
+       o Comprehensive Financial and Economic Indicators Including Stock Market & GDP Grow.csv - Raw dataset
+       o Main Project Final.ipynb - Pandas analysis and visualizations
+       o README.md – Project description and usage instructions
 
 14. How to Use 
        
