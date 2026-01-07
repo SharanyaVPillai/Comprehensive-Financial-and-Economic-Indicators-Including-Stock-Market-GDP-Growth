@@ -85,9 +85,9 @@
 
 12. Files Included
 
-       o Comprehensive Financial and Economic Indicators Including Stock Market & GDP Grow.csv - Raw dataset.
-       o Main Project Final.ipynb - Pandas analysis and visualizations.
-       o README.md – Project description and usage instructions.
+       1. Comprehensive Financial and Economic Indicators Including Stock Market & GDP Grow.csv - Raw dataset.
+       2. Main Project Final.ipynb - Pandas analysis and visualizations.
+       3. README.md – Project description and usage instructions.
 
 14. How to Use 
        
